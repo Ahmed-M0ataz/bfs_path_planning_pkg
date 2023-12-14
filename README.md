@@ -20,7 +20,6 @@ For example:
 - End: 10
 - Path: 1 -> 3 -> 6 -> 10
 
-
 ![Path Example](https://github.com/Ahmed-M0ataz/bfs_path_planning_pkg/blob/master/media/Breadth-First-Search-Algorithm.gif)
 
 ## Output from Python Script
@@ -29,7 +28,7 @@ For example:
 To execute the Python script, use the following command:
 ```bash
 rosrun bfs_path_planning_pkg bfs_algorithm.py
-
+```
 This script implements the BFS algorithm on the specified graph or grid map, providing the shortest path from the start to the end point.
 
 To learn more about the algorithm, you can watch this video: [BFS Algorithm Video](https://www.youtube.com/watch?v=KiCBXu4P-2Y)
