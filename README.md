@@ -19,6 +19,8 @@ For example:
 - Start: 1
 - End: 10
 - Path: 1 -> 3 -> 6 -> 10
+
+
 ![Path Example](https://github.com/Ahmed-M0ataz/bfs_path_planning_pkg/blob/master/media/Breadth-First-Search-Algorithm.gif)
 
 ## Output from Python Script
